@@ -74,7 +74,7 @@ const AboutSection = () => {
             , HTML, CSS, and Git. Saya seorang yang dapat diajak bekerja dengan tim
             dan saya dengan senang hati apabila ada seseorang yang ingin bekerja sama dengan saya dalam mengembangkan suatu aplikasi.
           </p>
-          <div className="flex flex-row justify-start mt-8 gap-2">
+          <div className="flex flex-row justify-start mt-8 gap-2 md:overflow-visible overflow-x-scroll">
             <TabButton
               selectTab={() => handleTabChange("skills")}
               active={tab === "skills"}
