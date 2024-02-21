@@ -27,7 +27,7 @@ const projectsData = [
     id: 3,
     title: "Next Simple Blog App With Auth",
     description: "Aplikasi ini memiliki fitur agar user dapat memposting simple artikel. Aplikasi ini dirancang dengan mengunakan NextJS, dan MongoDB",
-    image: "/images/projects/3.png",
+    image: "/images/projects/3.jpg",
     tag: ["All", "Web"],
     gitUrl: "https://github.com/fauzanocthory/fauzan-portofolio-nextjs",
     previewUrl: "https://blog-m7elbjysn-fauzanocthory.vercel.app",
