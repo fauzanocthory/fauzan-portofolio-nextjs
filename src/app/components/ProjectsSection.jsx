@@ -32,6 +32,15 @@ const projectsData = [
     gitUrl: "https://github.com/fauzanocthory/fauzan-portofolio-nextjs",
     previewUrl: "https://blog-m7elbjysn-fauzanocthory.vercel.app",
   },
+  {
+    id: 4,
+    title: "Rent Car App Using NextJS",
+    description: "Aplikasi ini memiliki fitur agar user dapat memesan mobil yang ingin disewakan. Aplikasi ini dirancang dengan mengunakan NextJS, dan MongoDB",
+    image: "/images/projects/4.jpg",
+    tag: ["All", "Web"],
+    gitUrl: "https://github.com/fauzanocthory/rent-car-nextjs",
+    previewUrl: "https://rent-car-nextjs-seven.vercel.app/",
+  },
 ];
 
 const ProjectsSection = () => {
